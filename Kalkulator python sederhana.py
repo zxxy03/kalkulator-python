@@ -1,4 +1,5 @@
 from colorama import Fore
+print("\n\n\n\n")
 print(Fore.CYAN+'ini adalah program kalkulator sederhana python!\n'+Fore.RESET)
 
 while True:
