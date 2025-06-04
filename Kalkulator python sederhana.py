@@ -33,4 +33,4 @@ while True:
 	        break
 
 	else:
-	    print(Fore.RED+'\nPilihan Tidak Valid Pilih opsi(kali, bagi, tambah, kurang)\n')
+	    print(Fore.RED+'\nPilihan Tidak Valid Pilih opsi(kali, bagi, tambah, kurang)\n'+Fore.RESET)
